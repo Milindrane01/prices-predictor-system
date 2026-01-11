@@ -1,0 +1,15 @@
+artifact_uri: file:D:\prices-predictor-system\prices-predictor-system\zenml_artifacts\mlruns/690686340545931177/0c67a6ad5d334207986aa67671276edf/artifacts
+end_time: 1768159094099
+entry_point_name: ''
+experiment_id: '690686340545931177'
+lifecycle_stage: active
+run_id: 0c67a6ad5d334207986aa67671276edf
+run_name: ml_pipeline-2026_01_11-19_17_53_896497
+run_uuid: 0c67a6ad5d334207986aa67671276edf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768159088033
+status: 3
+tags: []
+user_id: ranem

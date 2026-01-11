@@ -1,0 +1,22 @@
+Caching disabled explicitly for model_evaluator_step.
+
+Step model_evaluator_step has started.
+
+Applying the same preprocessing to the test data.
+
+Evaluating the model using the selected strategy.
+
+Predicting using the trained model.
+
+Calculating evaluation metrics.
+
+Model Evaluation Metrics: {'Mean Squared Error': 0.010942367022909487, 'R-Squared': 0.9221139768594216}
+
+Implicitly linking artifact output_0 to model prices_predictor version 22.
+
+Implicitly linking artifact output_1 to model prices_predictor version 22.
+
+Step model_evaluator_step has finished in 1.388s.
+
+Step model_evaluator_step completed successfully.
+

@@ -1,0 +1,16 @@
+Step handle_missing_values_step has started.
+
+New model version 14 was created.
+
+Executing missing value handling strategy.
+
+Filling missing values using method: mean
+
+Missing values filled.
+
+Implicitly linking artifact output to model prices_predictor version 14.
+
+Step handle_missing_values_step has finished in 2.350s.
+
+Step handle_missing_values_step completed successfully.
+

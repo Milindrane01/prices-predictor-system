@@ -1,0 +1,4013 @@
+Caching disabled explicitly for mlflow_model_deployer_step.
+
+Step mlflow_model_deployer_step has started.
+
+Deploying model server for model with the following configuration: {'type': 'zenml.integrations.mlflow.services.mlflow_deployment.MLFlowDeploymentConfig', 'name': '', 'description': '', 'pipeline_name': 'continuous_deployment_pipeline', 'pipeline_step_name': 'mlflow_model_deployer_step', 'model_name': 'model', 'model_version': '', 'service_name': 'zenml-model', 'silent_daemon': False, 'root_runtime_path': None, 'singleton': False, 'blocking': False, 'model_uri': 'file:D:\\prices-predictor-system\\prices-predictor-system\\zenml_artifacts\\mlruns/234144182610220870/8a9d0ffa9a2840a594b508ef430c2716/artifacts/model', 'registry_model_name': None, 'registry_model_version': None, 'registry_model_stage': None, 'workers': 3, 'mlserver': False, 'timeout': 60}
+
+Calling start method...
+
+
+Daemon functionality is currently not 
+supported on Windows.
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon process for service 'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c471ea449c3] (type: model-serving, flavor: mlflow)' failed to start.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db
+-4e3f-8cf5-9c471ea449c3] (type: 
+model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8c
+f5-9c471ea449c3] (type: model-serving, flavor:
+mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8c
+f5-9c471ea449c3] (type: model-serving, flavor:
+mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8c
+f5-9c471ea449c3] (type: model-serving, flavor:
+mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8c
+f5-9c471ea449c3] (type: model-serving, flavor:
+mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8c
+f5-9c471ea449c3] (type: model-serving, flavor:
+mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8c
+f5-9c471ea449c3] (type: model-serving, flavor:
+mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8c
+f5-9c471ea449c3] (type: model-serving, flavor:
+mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8c
+f5-9c471ea449c3] (type: model-serving, flavor:
+mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8c
+f5-9c471ea449c3] (type: model-serving, flavor:
+mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8c
+f5-9c471ea449c3] (type: model-serving, flavor:
+mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8c
+f5-9c471ea449c3] (type: model-serving, flavor:
+mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8c
+f5-9c471ea449c3] (type: model-serving, flavor:
+mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8c
+f5-9c471ea449c3] (type: model-serving, flavor:
+mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8c
+f5-9c471ea449c3] (type: model-serving, flavor:
+mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8c
+f5-9c471ea449c3] (type: model-serving, flavor:
+mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8c
+f5-9c471ea449c3] (type: model-serving, flavor:
+mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8c
+f5-9c471ea449c3] (type: model-serving, flavor:
+mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8c
+f5-9c471ea449c3] (type: model-serving, flavor:
+mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8c
+f5-9c471ea449c3] (type: model-serving, flavor:
+mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8c
+f5-9c471ea449c3] (type: model-serving, flavor:
+mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8c
+f5-9c471ea449c3] (type: model-serving, flavor:
+mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8c
+f5-9c471ea449c3] (type: model-serving, flavor:
+mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8c
+f5-9c471ea449c3] (type: model-serving, flavor:
+mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8c
+f5-9c471ea449c3] (type: model-serving, flavor:
+mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8c
+f5-9c471ea449c3] (type: model-serving, flavor:
+mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8c
+f5-9c471ea449c3] (type: model-serving, flavor:
+mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8c
+f5-9c471ea449c3] (type: model-serving, flavor:
+mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8c
+f5-9c471ea449c3] (type: model-serving, flavor:
+mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8c
+f5-9c471ea449c3] (type: model-serving, flavor:
+mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8c
+f5-9c471ea449c3] (type: model-serving, flavor:
+mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8c
+f5-9c471ea449c3] (type: model-serving, flavor:
+mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8c
+f5-9c471ea449c3] (type: model-serving, flavor:
+mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8c
+f5-9c471ea449c3] (type: model-serving, flavor:
+mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8c
+f5-9c471ea449c3] (type: model-serving, flavor:
+mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8c
+f5-9c471ea449c3] (type: model-serving, flavor:
+mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8c
+f5-9c471ea449c3] (type: model-serving, flavor:
+mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8c
+f5-9c471ea449c3] (type: model-serving, flavor:
+mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8c
+f5-9c471ea449c3] (type: model-serving, flavor:
+mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8c
+f5-9c471ea449c3] (type: model-serving, flavor:
+mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8c
+f5-9c471ea449c3] (type: model-serving, flavor:
+mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8c
+f5-9c471ea449c3] (type: model-serving, flavor:
+mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8c
+f5-9c471ea449c3] (type: model-serving, flavor:
+mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8c
+f5-9c471ea449c3] (type: model-serving, flavor:
+mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8c
+f5-9c471ea449c3] (type: model-serving, flavor:
+mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8c
+f5-9c471ea449c3] (type: model-serving, flavor:
+mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8c
+f5-9c471ea449c3] (type: model-serving, flavor:
+mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8c
+f5-9c471ea449c3] (type: model-serving, flavor:
+mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8c
+f5-9c471ea449c3] (type: model-serving, flavor:
+mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8c
+f5-9c471ea449c3] (type: model-serving, flavor:
+mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8c
+f5-9c471ea449c3] (type: model-serving, flavor:
+mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8c
+f5-9c471ea449c3] (type: model-serving, flavor:
+mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8c
+f5-9c471ea449c3] (type: model-serving, flavor:
+mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8c
+f5-9c471ea449c3] (type: model-serving, flavor:
+mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8c
+f5-9c471ea449c3] (type: model-serving, flavor:
+mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8c
+f5-9c471ea449c3] (type: model-serving, flavor:
+mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8c
+f5-9c471ea449c3] (type: model-serving, flavor:
+mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8c
+f5-9c471ea449c3] (type: model-serving, flavor:
+mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8c
+f5-9c471ea449c3] (type: model-serving, flavor:
+mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8c
+f5-9c471ea449c3] (type: model-serving, flavor:
+mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8c
+f5-9c471ea449c3] (type: model-serving, flavor:
+mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠦ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠙ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠹ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠸ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠼ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠴ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠧ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠇ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+⠏ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+Timed out waiting for service MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c471ea449c3] (type: model-serving, flavor: mlflow) to become active:
+  Administrative state: active
+  Operational state: inactive
+  Last status message: 'service daemon is not running'
+For more information on the service status, please see the following log file: C:\Users\ranem\AppData\Roaming\zenml\local_stores\3ab848b2-18f1-4c34-a07e-06b0d74fa719\8be97d87-f4db-4e3f-8cf5-9c471ea449c3\service.log
+
+
+Daemon functionality is currently not supported on Windows.
+
+Failed to start service MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c471ea449c3] (type: model-serving, flavor: mlflow)
+  Administrative state: active
+  Operational state: inactive
+  Last status message: 'service daemon is not running'
+For more information on the service status, please see the following log file: C:\Users\ranem\AppData\Roaming\zenml\local_stores\3ab848b2-18f1-4c34-a07e-06b0d74fa719\8be97d87-f4db-4e3f-8cf5-9c471ea449c3\service.log
+
+
+⠋ Starting service 
+'MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c
+471ea449c3] (type: model-serving, flavor: mlflow)'.
+
+
+start method executed successfully.
+
+Created a new MLflow deployment service: MLFlowDeploymentService[8be97d87-f4db-4e3f-8cf5-9c471ea449c3] (type: model-serving, flavor: mlflow)
+
+Daemon functionality is currently not supported on Windows.
+
+Daemon functionality is currently not supported on Windows.
+
+MLflow deployment service started and reachable at:
+    None
+
+
+Stopping existing services...
+
+Daemon functionality is currently not supported on Windows.
+
+Step mlflow_model_deployer_step has finished in 1m7s.
+
+Step mlflow_model_deployer_step completed successfully.
+

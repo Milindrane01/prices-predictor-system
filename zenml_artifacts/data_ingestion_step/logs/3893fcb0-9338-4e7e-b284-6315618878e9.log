@@ -1,0 +1,10 @@
+Step data_ingestion_step has started.
+
+New model version 13 was created.
+
+Implicitly linking artifact output to model prices_predictor version 13.
+
+Step data_ingestion_step has finished in 2.556s.
+
+Step data_ingestion_step completed successfully.
+

@@ -1,0 +1,22 @@
+Step data_splitter_step has started.
+
+New model version 17 was created.
+
+Splitting data using the selected strategy.
+
+Performing simple train-test split.
+
+Train-test split completed.
+
+Implicitly linking artifact output_0 to model prices_predictor version 17.
+
+Implicitly linking artifact output_1 to model prices_predictor version 17.
+
+Implicitly linking artifact output_2 to model prices_predictor version 17.
+
+Implicitly linking artifact output_3 to model prices_predictor version 17.
+
+Step data_splitter_step has finished in 3.300s.
+
+Step data_splitter_step completed successfully.
+

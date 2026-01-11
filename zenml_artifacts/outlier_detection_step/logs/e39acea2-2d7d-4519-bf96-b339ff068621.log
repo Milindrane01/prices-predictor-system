@@ -1,0 +1,28 @@
+Step outlier_detection_step has started.
+
+New model version 16 was created.
+
+Starting outlier detection step with DataFrame of shape: (2930, 82)
+
+Executing outlier detection strategy.
+
+Detecting outliers using the Z-score method.
+
+Outliers detected with Z-score threshold: 3.
+
+Executing outlier detection strategy.
+
+Detecting outliers using the Z-score method.
+
+Outliers detected with Z-score threshold: 3.
+
+Removing outliers from the dataset.
+
+Outlier handling completed.
+
+Implicitly linking artifact output to model prices_predictor version 16.
+
+Step outlier_detection_step has finished in 1.609s.
+
+Step outlier_detection_step completed successfully.
+

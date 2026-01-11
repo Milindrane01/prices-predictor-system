@@ -1,0 +1,31 @@
+Step data_ingestion_step has started.
+
+New model version 11 was created.
+
+Failed to run step data_ingestion_step after 1 retries. Exiting.
+
+[Errno 2] No such file or directory: '/Users/ayushsingh/Desktop/end-to-end-production-grade-projects/prices-predictor-system/data/archive.zip'
+Traceback (most recent call last):
+  File "D:\prices-predictor-system\prices-predictor-system\venv\Lib\site-packages\zenml\orchestrators\step_launcher.py", line 268, in launch
+    self._run_step(
+  File "D:\prices-predictor-system\prices-predictor-system\venv\Lib\site-packages\zenml\orchestrators\step_launcher.py", line 476, in _run_step
+    self._run_step_without_step_operator(
+  File "D:\prices-predictor-system\prices-predictor-system\venv\Lib\site-packages\zenml\orchestrators\step_launcher.py", line 560, in _run_step_without_step_operator
+    runner.run(
+  File "D:\prices-predictor-system\prices-predictor-system\venv\Lib\site-packages\zenml\orchestrators\step_runner.py", line 200, in run
+    return_values = step_instance.call_entrypoint(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\prices-predictor-system\prices-predictor-system\venv\Lib\site-packages\zenml\steps\base_step.py", line 661, in call_entrypoint
+    return self.entrypoint(**validated_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\prices-predictor-system\prices-predictor-system\steps\data_ingestion_step.py", line 16, in data_ingestion_step
+    df = data_ingestor.ingest(file_path)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\prices-predictor-system\prices-predictor-system\src\ingest_data.py", line 25, in ingest
+    with zipfile.ZipFile(file_path, "r") as zip_ref:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\zipfile.py", line 1294, in __init__
+    self.fp = io.open(file, filemode)
+              ^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/Users/ayushsingh/Desktop/end-to-end-production-grade-projects/prices-predictor-system/data/archive.zip'
+
