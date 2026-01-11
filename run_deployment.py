@@ -19,6 +19,22 @@ from zenml.integrations.mlflow.model_deployers.mlflow_model_deployer import (
 )
 def run_main(stop_service: bool):
     """Run the prices predictor deployment pipeline"""
+    # Check for required stack components
+    from zenml.client import Client
+    
+    active_stack = Client().active_stack
+    if not active_stack.experiment_tracker or not active_stack.model_deployer:
+        print(
+            "Error: Active ZenML stack is missing required components.\n"
+            "This pipeline requires an 'experiment_tracker' and a 'model_deployer'.\n"
+            "Please register them using the following commands:\n\n"
+            "zenml experiment-tracker register mlflow_tracker --flavor=mlflow\n"
+            "zenml model-deployer register mlflow --flavor=mlflow\n"
+            "zenml stack register local_stack -a default -o default -e mlflow_tracker -d mlflow\n"
+            "zenml stack set local_stack\n"
+        )
+        return
+
     model_name = "prices_predictor"
 
     if stop_service:
