@@ -17,9 +17,11 @@ from zenml import Model, pipeline, step
 def ml_pipeline():
     """Define an end-to-end machine learning pipeline."""
 
+    import os
+
     # Data Ingestion Step
     raw_data = data_ingestion_step(
-        file_path="/Users/ayushsingh/Desktop/end-to-end-production-grade-projects/prices-predictor-system/data/archive.zip"
+        file_path=os.path.join(os.getcwd(), "data", "archive.zip")
     )
 
     # Handling Missing Values Step
