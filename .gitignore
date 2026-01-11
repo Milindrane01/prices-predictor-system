@@ -1,6 +1,5 @@
 /venv
 artifacts
 mlruns
-steps
 zenml_artifacts
 pipeline.log
