@@ -15,12 +15,21 @@ def main():
     # trained_model = run["model_building_step"]  # Replace with actual step name if different
     # print(f"Trained Model Type: {type(trained_model)}")
 
-    print(
-        "Now run \n "
-        f"    mlflow ui --backend-store-uri '{get_tracking_uri()}'\n"
-        "To inspect your experiment runs within the mlflow UI.\n"
-        "You can find your runs tracked within the experiment."
-    )
+    # Check if we have an experiment tracker
+    from zenml.client import Client
+    
+    if Client().active_stack.experiment_tracker:
+        print(
+            "Now run \n "
+            f"    mlflow ui --backend-store-uri '{get_tracking_uri()}'\n"
+            "To inspect your experiment runs within the mlflow UI.\n"
+            "You can find your runs tracked within the experiment."
+        )
+    else:
+        print(
+            "Pipeline finished successfully.\n"
+            "No experiment tracker is active, so MLflow UI instructions are skipped."
+        )
 
 
 if __name__ == "__main__":
