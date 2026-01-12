@@ -42,6 +42,19 @@ class ZipDataIngestor(DataIngestor):
         return df
 
 
+# Implement a concrete class for CSV Ingestion
+class CsvDataIngestor(DataIngestor):
+    def ingest(self, file_path: str) -> pd.DataFrame:
+        """Reads a .csv file and returns the content as a pandas DataFrame."""
+        # Ensure the file is a .csv
+        if not file_path.endswith(".csv"):
+            raise ValueError("The provided file is not a .csv file.")
+
+        # Read the CSV into a DataFrame
+        df = pd.read_csv(file_path)
+        return df
+
+
 # Implement a Factory to create DataIngestors
 class DataIngestorFactory:
     @staticmethod
@@ -49,6 +62,8 @@ class DataIngestorFactory:
         """Returns the appropriate DataIngestor based on file extension."""
         if file_extension == ".zip":
             return ZipDataIngestor()
+        elif file_extension == ".csv":
+            return CsvDataIngestor()
         else:
             raise ValueError(f"No ingestor available for file extension: {file_extension}")
 
