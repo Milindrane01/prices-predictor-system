@@ -21,7 +21,7 @@ def ml_pipeline():
 
     # Data Ingestion Step
     raw_data = data_ingestion_step(
-        file_path=os.path.join(os.getcwd(), "data", "archive.zip")
+        file_path=os.path("D:\prices-predictor-system\prices-predictor-system\data\AmesHousing.csv")
     )
 
     # Handling Missing Values Step
