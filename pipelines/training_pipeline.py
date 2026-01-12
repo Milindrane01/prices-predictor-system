@@ -20,13 +20,7 @@ def ml_pipeline():
     import os
 
     # Data Ingestion Step
-    # Calculate robust path relative to this file
-    pipeline_dir = os.path.dirname(os.path.abspath(__file__))
-    project_root = os.path.dirname(pipeline_dir)
-    file_path = os.path.join(project_root, "data", "AmesHousing.csv")
-
-    raw_data = data_ingestion_step(file_path=file_path)
-
+    raw_data = data_ingestion_step(file_path="D:\prices-predictor-system\prices-predictor-system\data\archive.zip")
     # Handling Missing Values Step
     filled_data = handle_missing_values_step(raw_data)
 
